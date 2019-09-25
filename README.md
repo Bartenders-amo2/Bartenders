@@ -1,0 +1,2 @@
+# Bartenders
+zelf scan kassa
